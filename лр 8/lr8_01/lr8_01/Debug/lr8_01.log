@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\1yniver\ОАП\лр 8\lr8_01\lr8_01\Source.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1yniver\ОАП\лр 8\lr8_01\lr8_01\Source.cpp(12,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\1yniver\ОАП\лр 8\lr8_01\lr8_01\Source.cpp(15,10): error C2065: z: необъявленный идентификатор

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\1yniver\ОАП\лр 8\lr8_01\lr8_02\Source.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1yniver\ОАП\лр 8\lr8_01\lr8_02\Source.cpp(12,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\1yniver\ОАП\лр 8\lr8_01\lr8_02\Source.cpp(14,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\1yniver\ОАП\лр 8\lr8_01\lr8_02\Source.cpp(17,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lr8_02.vcxproj -> E:\1yniver\ОАП\лр 8\lr8_01\Debug\lr8_02.exe

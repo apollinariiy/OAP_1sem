@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+E:\1yniver\ОАП\лр 11\ConsoleApplication1\ConsoleApplication2\ConsoleApplication2.cpp(2,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1yniver\ОАП\лр 11\ConsoleApplication1\ConsoleApplication2\ConsoleApplication2.cpp(6,33): warning C4101: size: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> E:\1yniver\ОАП\лр 11\ConsoleApplication1\Debug\ConsoleApplication2.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\1yniver\ОАП\лр 7\lr7\lr7_5\Source.cpp(3,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1yniver\ОАП\лр 7\lr7\lr7_5\Source.cpp(5,22): warning C4305: инициализация: усечение из "double" в "float"
+  lr7_5.vcxproj -> E:\1yniver\ОАП\лр 7\lr7\Debug\lr7_5.exe

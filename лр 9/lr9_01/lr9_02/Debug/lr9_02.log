@@ -1,0 +1,4 @@
+﻿  lr9_02.cpp
+E:\1yniver\ОАП\лр 9\lr9_01\lr9_02\lr9_02.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1yniver\ОАП\лр 9\lr9_01\lr9_02\lr9_02.cpp(9,9): warning C4101: j: неиспользованная локальная переменная
+  lr9_02.vcxproj -> E:\1yniver\ОАП\лр 9\lr9_01\Debug\lr9_02.exe

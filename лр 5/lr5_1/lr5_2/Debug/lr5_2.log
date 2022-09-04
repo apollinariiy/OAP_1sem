@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\1yniver\ОАП\лр 5\lr5_1\lr5_2\Source.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1yniver\ОАП\лр 5\lr5_1\lr5_2\Source.cpp(5,15): warning C4305: инициализация: усечение из "double" в "float"
+E:\1yniver\ОАП\лр 5\lr5_1\lr5_2\Source.cpp(5,25): warning C4305: инициализация: усечение из "double" в "float"
+E:\1yniver\ОАП\лр 5\lr5_1\lr5_2\Source.cpp(9,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\1yniver\ОАП\лр 5\lr5_1\lr5_2\Source.cpp(10,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\1yniver\ОАП\лр 5\lr5_1\lr5_2\Source.cpp(13,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lr5_2.vcxproj -> E:\1yniver\ОАП\лр 5\lr5_1\Debug\lr5_2.exe

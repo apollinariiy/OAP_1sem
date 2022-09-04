@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\1yniver\ОАП\лр 7\lr7\lr7_02\Source.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lr7_02.vcxproj -> E:\1yniver\ОАП\лр 7\lr7\Debug\lr7_02.exe

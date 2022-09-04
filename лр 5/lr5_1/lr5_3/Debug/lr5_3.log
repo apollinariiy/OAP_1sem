@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\полина\source\repos\lr5_1\lr5_3\Source.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\полина\source\repos\lr5_1\lr5_3\Source.cpp(5,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\полина\source\repos\lr5_1\lr5_3\Source.cpp(5,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\полина\source\repos\lr5_1\lr5_3\Source.cpp(8,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\полина\source\repos\lr5_1\lr5_3\Source.cpp(9,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\полина\source\repos\lr5_1\lr5_3\Source.cpp(12,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\Users\полина\source\repos\lr5_1\Debug\lr5_3.exe для записи

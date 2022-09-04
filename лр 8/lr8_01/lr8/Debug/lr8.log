@@ -1,0 +1,4 @@
+﻿  lr8.cpp
+E:\1yniver\ОАП\лр 8\lr8_01\lr8\lr8.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1yniver\ОАП\лр 8\lr8_01\lr8\lr8.cpp(12,12): warning C4305: =: усечение из "double" в "float"
+  lr8.vcxproj -> E:\1yniver\ОАП\лр 8\lr8_01\Debug\lr8.exe
